@@ -7,7 +7,7 @@
 
 ## 깃 배쉬 사용시
 1. 파일 만들고, git init -> git remote add origin (본인 레포) -> git clone
-   이미 했던 경우에는 git fetch upstream로 변경사항 update
+   이미 했던 경우에는 git pull로 변경사항 update
 3. 로컬에서 수정
 4. git add . -> git commit -m '수정 내역' -> git push
 5. 본인 레포 좌상단의 Pull requests로 들어가서 commit한다.
