@@ -10,7 +10,7 @@
   > * 전체시청률 : 드라마들의 시청률(AGB, 전국)  
   > * searchs : 남녀, 전체 연령대, 모바일 사용자를 기준으로 한 네이버 검색어 트렌드 데이터
   > * shops : 남녀, 전연령대, 모바일 사용자를 Target으로 한 네이버 쇼핑 트렌드 데이터  
-  > > > searchs&shops 데이터를 작성하려는 경우, library 블록에 본인의 Naver API id와 password를 입력하여야 함.
+  >   * searchs&shops 데이터를 작성하려는 경우, library 블록에 본인의 Naver API id와 password를 입력하여야 함.
   > * actor_ranking_(z_score_based)_1901_2306 : 배우브랜드를 범주화한 데이터  
   
 * 프로젝트 목적
