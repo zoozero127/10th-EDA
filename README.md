@@ -13,7 +13,7 @@
 
 
 
-[EDA 프로젝트 최종 발표 영상](Youtube link not updated)
+[EDA 프로젝트 최종 발표 영상](link)
 
 |Team|팀장(8기)|팀원(9기)|Dataset|Presentation|Reference|
 |:---:|:---:|:---:|:---:|:---:|:---:|
