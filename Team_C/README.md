@@ -82,32 +82,76 @@
 
 
 
-## tree (가능하다면, github에서 tree 명령어를 통해 전체 파일 트리를 보여주세요)
+## tree
 ```bash
-├── Dataset
-│   ├── 1923_dramlist.csv
-│   └── 메타데이터.csv│
-│   └── 메타_전처리1.csv
-│   └── 배우브랜드.csv
-│   └── 전체시청률.csv
-│   └── searchs.csv
-│   └── shops.csv
-│   └── actor_ranking_(z_score_based)_1901_2306.csv
-│   └── 브랜드.xlsx
-│   └── genre_one_hot_encoding.csv
-│   └── 장르만_다시_처리.csv
+├─Dataset
+│      1923_dramalist.csv
+│      actor_ranking_(z_score_based)_1901_2306.csv
+│      Cluster특성.PNG
+│      genre_one_hot_encoding.csv
+│      readme.md
+│      searchs.csv
+│      shops.csv
+│      메타_전처리1.csv
+│      메타데이터.csv
+│      배우브랜드.csv
+│      브랜드.xlsx
+│      장르만_다시_처리.csv
+│      전체시청률.csv
 │
-├── 정주영
-│   └── dummy.txt
-├── 팀원1
-│   └── dummy.txt
-├── 팀원2
-│   └── dummy.txt
-├── 팀원3
-│   └── dummy.txt
-├── EDA_4조_발표자료.pdf
-├── EDA_4조_코드.ipynb
-│   
+├─SourceCode
+│  ├─1.데이터수집&전처리
+│  │      네이버API_데이터_수집.ipynb
+│  │      메타데이터_전처리.ipynb
+│  │      메타데이터_크롤링.ipynb
+│  │      배우브랜드_전처리.ipynb
+│  │      배우브랜드_크롤링.ipynb
+│  │      시청률추출&전처리.ipynb
+│  │
+│  ├─2.시청률에관한분석
+│  │      시청률에대한코로나효과.ipynb
+│  │      장르효과&로맨스클러스터링&황금시간대.ipynb
+│  │
+│  └─3.네이버api사용분석
+│          상관관계분석&클러스터링.ipynb
 │
+├─강건우
+│      dummy.txt
+│      EDA_기초_분석.ipynb
+│      EDA_데이터_전처리.ipynb
+│      EDA_데이터_전처리2.ipynb
+│      드라마_EDA.ipynb
+│
+├─이준린
+│      dummy.txt
+│      eda_crawling_metaData.ipynb
+│      meta_장르병합_code.ipynb
+│
+├─정성오
+│      actor_rank_(z_score_based).ipynb
+│      auto_EDA.ipynb
+│      meta_장르병합_code_0729ver.ipynb
+│      rating_abt_covid_period_t_test.ipynb
+│      test.ipynb
+│      드라마_시청률_데이터.csv
+│      드라마_장르_원핫인코딩.ipynb
+│      시청률_추출.ipynb
+│      시청률_추출_못한_드라마_리스트.csv
+│
+├─정주영
+│      dummy.txt
+│      EDA_분석시도.ipynb
+│      for_cluster.csv
+│      searchs.csv
+│      shops.csv
+│      whole_join.csv
+│      드라마_리스트_정제.ipynb
+│      배우브랜드.ipynb
+│      브랜드.xlsx
+│      사전_EDA.ipynb
+│      쇼핑분석.ipynb
+│      시청률_추출2.ipynb
+│
+├─ EDA-C조.pdf
 └── README.md
 ``` 
