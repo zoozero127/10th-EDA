@@ -17,7 +17,7 @@
 
 |Team|팀장(8기)|팀원(9기)|Dataset|Presentation|Reference|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|1|김현동|박태정<br>연제|[관광<br>(주제)]|[PDF](발표자료 pdf 링크)|[Code](code)|
+|1|김현동|박태정<br>연제|[관광<br>(주제)]|[PDF](link)|[Code](code)|
 |2|남승우|김영호<br>신재우<br>임창재|[교육<br>(주제)]|[PDF](link)|[Code](code)|
 |3|정주영|강건우<br>이준린<br>정성오|[문화<br>(주제)]|[PDF](link)|[Code](code)|
 |4|김영현|박성원<br>윤형진|[의료<br>(주제)]|[PDF](link)|[Code](code)|
