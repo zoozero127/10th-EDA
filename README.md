@@ -8,14 +8,11 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/DataScience-Lab-Yonsei/10th_EDA)
 ![GitHub contributors](https://img.shields.io/github/contributors/DataScience-Lab-Yonsei/10th_EDA?color=purple)
 
-
 <br>
-
-
 
 [EDA 프로젝트 최종 발표 영상](link)
 
-|Team|팀장(8기)|팀원(9기)|Dataset|Presentation|Reference|
+|Team|팀장(9기)|팀원(10기)|Topic|Presentation|Reference|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |1|김현동|박태정<br>연제|[관광<br>(주제)]|[PDF](link)|[Code](code)|
 |2|남승우|김영호<br>신재우<br>임창재|[교육<br>(주제)]|[PDF](link)|[Code](code)|
